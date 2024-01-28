@@ -580,7 +580,7 @@ __metadata:
     lodash: ^4.17.21
     mocha: ^10.0.0
     prettier: ^2.7.1
-    superstruct: ^0.16.0
+    superstruct: ^1.0.3
     tiny-invariant: ^1.2.0
     ts-node: ^10.8.1
     tslib: ^2.4.0
@@ -5949,6 +5949,13 @@ resolve@^1.20.0:
   languageName: node
   linkType: hard
 
+"superstruct@npm:^1.0.3":
+  version: 1.0.3
+  resolution: "superstruct@npm:1.0.3"
+  checksum: 761790bb111e6e21ddd608299c252f3be35df543263a7ebbc004e840d01fcf8046794c274bcb351bdf3eae4600f79d317d085cdbb19ca05803a4361840cc9bb1
+  languageName: node
+  linkType: hard
+
 "supports-color@npm:8.1.1":
   version: 8.1.1
   resolution: "supports-color@npm:8.1.1"
@@ -6272,7 +6279,7 @@ resolve@^1.20.0:
 
 "typescript@patch:typescript@4.7.0-beta#~builtin<compat/typescript>":
   version: 4.7.0-beta
-  resolution: "typescript@patch:typescript@npm%3A4.7.0-beta#~builtin<compat/typescript>::version=4.7.0-beta&hash=7ad353"
+  resolution: "typescript@patch:typescript@npm%3A4.7.0-beta#~builtin<compat/typescript>::version=4.7.0-beta&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -6282,7 +6289,7 @@ resolve@^1.20.0:
 
 "typescript@patch:typescript@^4.7.4#~builtin<compat/typescript>":
   version: 4.7.4
-  resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=7ad353"
+  resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
